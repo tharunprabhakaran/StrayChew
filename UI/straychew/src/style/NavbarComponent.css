@@ -1,0 +1,20 @@
+.NavbarUDC #Title {
+    padding-left: 1em;
+    color: whitesmoke;
+    
+    font-family: 'Sacramento', cursive;
+
+}
+
+.NavbarUDC li {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.no-shadows {
+    box-shadow: none!important;
+}
+
+.landscape {
+    padding-right: 2em;
+}
